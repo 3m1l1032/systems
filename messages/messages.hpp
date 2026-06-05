@@ -1,5 +1,5 @@
 /* 
- * Emilio Cazares Borbon, 2026
+ * Emilio Cazares Borbon, June 2026
  * 
  * Let's explore how to handle error and console messages from commands given
  * to the system. 
